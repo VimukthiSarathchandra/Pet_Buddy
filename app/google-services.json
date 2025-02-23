@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797483508733",
+    "project_id": "pet-buddy-b08ee",
+    "storage_bucket": "pet-buddy-b08ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797483508733:android:5ae26f58bfe9233d82af94",
+        "android_client_info": {
+          "package_name": "lk.javainstitute.petbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGBOP9x4zGjuuDnv3kzQzWYmQy8dYOZ2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
